@@ -1,3 +1,4 @@
+![logo](https://github.com/snehajn24/snehajn24/blob/main/WhatsApp%20Image%202024-08-31%20at%208.00.56%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Sneha Jain</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 <img align = "right" alt = "coding" width = "250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
